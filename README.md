@@ -3,8 +3,7 @@
 
 ## Description
 
-I made a game score tracker. I have taken Figma file from Scrimba course and I designed it according to the desired dimensions.  
-You can test this project by follow [this link](https://ebrar-basketball-scoreboard.netlify.app/).
+I made a game score tracker. I have taken Figma file from Scrimba course and I designed it according to the desired dimensions. You can test this project by follow [this link](https://ebrar-basketball-scoreboard.netlify.app/).
 
 
 
